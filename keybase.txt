@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/vsgoulart
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vsgoulart.github.io
+  * I am vsgoulart (https://keybase.io/vsgoulart) on keybase.
+  * I have a public key with fingerprint 8FF3 33B2 A441 BE1E 6DA2  1F0C 0E97 8B7E D142 51E9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019400f3f5a65714087be915ea588566688ff42528581321eebf234b5ff2f55a930a",
+            "fingerprint": "8ff333b2a441be1e6da21f0c0e978b7ed14251e9",
+            "host": "keybase.io",
+            "key_id": "0e978b7ed14251e9",
+            "kid": "01019400f3f5a65714087be915ea588566688ff42528581321eebf234b5ff2f55a930a",
+            "uid": "4cdc09c544facba27597f2d6b32a5100",
+            "username": "vsgoulart"
+        },
+        "service": {
+            "hostname": "vsgoulart.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1481659253,
+    "expire_in": 157680000,
+    "prev": "c5a0c3f0b2b5160adf9f48890df044c4ce731f3f92f8391afa289c039fbe1283",
+    "seqno": 40,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMIjAnicrZJbbA1BGMdP1a0n2ri0CRohK0KoZmZ2Z3f2kLiEhBfELQhOZ3ZnttvW
+7ununlNVEnULcQte9EHj7qUSNKhLUoREQzxIqiJCIhFaQeMBiUvNurzwal4m8+X/
+/32X+W4X5ieSeecLRx570/D1Y969m0eziRWLlmQbFObb9UqqQanmPy9eY/MwSle7
+tpJSAATQ1AAQqsBUxwbUADEYNyHmFBOCdV0nRAgNYUQwgSqCnDOBVI1hIZDAmJoq
+oEqZIlzP4UEmcL1IYqVFVVWGqKZBxiHXbYqgABbgpkGYwW0oiZCb0ljph7FDFsdo
+yMtdX8bkI/2rvH/1/7nu7E+cZtkWMC2saYJajCIDm4ZAts5URDEEIBaGPPDoOi7V
+udDxszU0iJRNZYoM51yLx5ONW/lbUu64UWWW/eorE/iRb/k1UlAZRZkwFQOi+kzs
+qOMs/ZuVZq5ny3lKR44Hoet7SgpKpRW5MRxqBOrYRFgtU/j6jBvwtBsrsKETIE+c
+h+ck0sIUWKoADDEMdUBtYQqNEBPYAmiapVncUKGcoIkEUU1IBUXEtIBqCvlniKhK
+3F2t5yspTUIj6khm6DoejbIBVzbdurG6fyIvmRg4oF+8aIlkwdA/6yfaBn0fNxqv
+bd9nPP2AX03Nnr38svbyoov6mI5tW8u/NDyw1/hNjxqTp5qbNpa+qNiyuOu6nf+m
+bptTm1r6fPXBkLbcrng7a2p6wvZhaHzb1Rs9RVu7mnb37RjSM+LKrv0b+3qP+efK
+xpbOuNR2sLNugSq0x/VPSievK1aGnWv1Tny91j5qZ9Hhwmlk7LdxswtYrmX5nuNL
+mhe2Nj6rEKedvJJu927Lp4IzJBg8vWjukab3dz6E3dVTUmylU3ypasu7SQWld9o3
+b1jZmT/ELf7mOt3lZgcadOh778P7vXtXlVwbnpzY/LZx7ZeSed6Brpr56py5Vc0z
+l+XDz6h9TN3VvpMXnNdD7dYfbSZAAQ==
+=3H5R
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vsgoulart
+
+==================================================================
