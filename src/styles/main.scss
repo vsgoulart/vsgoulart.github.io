@@ -1,0 +1,106 @@
+@import "palette.scss";
+@import "fonts.scss";
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: $body-font;
+}
+
+.svg-defs {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  stroke-width: 0;
+  stroke: #fff;
+  fill: #fff;
+  margin: 5px;
+}
+
+a.icon-link {
+  text-decoration: none;
+}
+
+.is-heading {
+  font-family: $heading-font;
+}
+
+nav {
+  width: 100vw;
+  background: $black;
+  color: #fff;
+  text-align: left;
+  padding: 10px 20px;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+
+  .title {
+    font-size: 46px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+  .surname {
+    display: none;
+  }
+
+  .icons {
+    display: flex;
+    align-items: center;
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    border-radius: 3px;
+    font-size: 22px;
+
+    &:hover {
+      background: $lightBlue;
+    }
+
+    &:link,
+    &:active,
+    &:visited,
+    &:hover {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+
+  .icon-label {
+    display: none;
+  }
+}
+
+@media (min-width: 550px) {
+  nav .surname {
+    display: inline;
+  }
+}
+
+@media (min-width: 800px) {
+  nav .icon-label {
+    display: inline;
+  }
+}
