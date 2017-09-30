@@ -1,0 +1,16 @@
+{
+  "short_name": "Vinícius S. Goulart",
+  "name": "Vinícius",
+  "icons": [
+    {
+      "src":
+        "https://res.cloudinary.com/dbr9gxnt2/image/upload/v1506803561/zeta-avatar_klpoq2.jpg",
+      "type": "image/jpg",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": "/",
+  "orientation": "portrait",
+  "background_color": "#142022",
+  "theme_color": "#142022"
+}
