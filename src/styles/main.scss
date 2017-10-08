@@ -1,4 +1,3 @@
-@import "palette.scss";
 @import "fonts.scss";
 
 html {
@@ -140,6 +139,7 @@ main {
 
 .project {
   position: relative;
+  margin: 5px;
 
   .description {
     background: rgba(59, 38, 103, 0.7);
@@ -184,6 +184,6 @@ main {
 
 @media (min-width: 1000px) {
   main .projects .project {
-    width: calc(100%/3);
+    width: calc((100%/3) - 10px);
   }
 }
